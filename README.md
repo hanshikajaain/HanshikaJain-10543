@@ -16,3 +16,9 @@ This project prints a triangular pattern of numbers based on user input using ne
 ## Files Included
 - `project.c` — main C program
 - `README.md` — project summary and learning reflection
+## 🔢 Sample Output
+
+Here’s the screenshot of the program running with input = 5:
+
+![C Project Output](./c_project_screenshot.png)
+<img width="1920" height="1134" alt="c project screenshot" src="https://github.com/user-attachments/assets/ca78ed1b-e5d2-469b-ab51-e9f6ff6df01b" />
